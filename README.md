@@ -1,2 +1,2 @@
 # netflix_sql_project
-use my sql solve netflix sql project
+Netflix Movies and Tv Shows data analysis  using my sql
